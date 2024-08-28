@@ -1,0 +1,3 @@
+[submodule "simuReads"]
+	path = simuReads
+	url = https://github.com/zhuweix/rust-simuReads.git
